@@ -1,0 +1,4 @@
+242 GB
+4 GB
+Intel(R) Core(TM) i5-3230M CPU @ 2.60GHz 2.60GHz
+System 64-bitowy
